@@ -1,3 +1,3 @@
 # What is this app about?
 
-## If you came on my Streamlit website, you'll be able to see a new astronomy picture once a day.
+## If you go to my Streamlit site, you can see a new astronomical picture once a day.
