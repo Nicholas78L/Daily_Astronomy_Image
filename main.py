@@ -11,4 +11,4 @@ content = response.json()
 
 st.title(content['title'])
 st.image(content['url'])
-st.text_area(content['explanation'])
+st.write(content['explanation'])
